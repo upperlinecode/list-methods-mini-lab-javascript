@@ -52,7 +52,6 @@ const other_lists = require('./other_lists')
 //
 //  6. Print out the 10th fourtune from the array.
 
-console.log(other_lists.fortunes[9])
 
 
 //  7. Print out fortunes 12, 13, and 14 from the array. There are several ways to do this, and any way is totally fine.
