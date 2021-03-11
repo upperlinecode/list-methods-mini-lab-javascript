@@ -35,7 +35,7 @@ A lot of times, it can be tempting to hard-code the answer to simple tasks. AVOI
 Consider this list of numbers:
 
 ```javascript
-let cool_numbers = [3, 5, 2, 1, 4]
+let coolNumbers = [3, 5, 2, 1, 4]
 ```
 
 If the instructions asked you to put these numbers in order, you might be tempted to go back up and simply rewrite the array:
@@ -43,7 +43,7 @@ If the instructions asked you to put these numbers in order, you might be tempte
 ```javascript
 
 // DO NOT CODE THIS WAY. IT IS SUPREMELY INEFFICIENT.
-let cool_numbers = [1, 2, 3, 4, 5]
+let coolNumbers = [1, 2, 3, 4, 5]
 
 ```
 
@@ -51,7 +51,7 @@ If this is the only way you know how to organize, imagine how exhausting your li
 
 ```javascript
 
-let cool_numbers = [
+let coolNumbers = [
   99, 18, 89, 8, 48, 61, 30, 66, 14, 68, 76, 38, 37, 59, 38, 12, 87, 25, 67, 53, 17, 23, 89,
   45, 43, 99, 96, 21, 35, 79, 88, 63, 91, 15, 58, 5, 73, 58, 13, 41, 77, 84, 31, 22, 57,
   24, 72, 2, 90, 77, 39, 67, 55, 0, 73, 61, 65, 70, 17, 83, 99, 79, 56, 32, 66, 12, 9,
@@ -69,8 +69,8 @@ let cool_numbers = [
 Instead, you want to use built-in methods to do your work for you.
 
 ```javascript
-let cool_numbers = [3, 5, 2, 1, 4]
-cool_numbers.sort()
+let coolNumbers = [3, 5, 2, 1, 4]
+coolNumbers.sort()
 ```
 
 As you go through this lab, you'll want to refer back to the [JavaScript documentation on arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array). This is where you can learn about other methods like ".sort()" that we used above.
