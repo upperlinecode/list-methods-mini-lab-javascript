@@ -62,7 +62,7 @@ const otherLists = require('./otherLists')
 
 
 
-// 9. Print out a random fortune from the array.
+// 9. Challenge: Print out a random fortune from the array.
 //
 //     You're going to need to use Math.random() and Math.floor(). See if you can figure out how they work here: https://www.w3schools.com/js/js_random.asp
 //     Then think about what range you need to choose a random number from.
@@ -74,6 +74,6 @@ const otherLists = require('./otherLists')
 
 
 
-// 10. Challenge: Out of all the fotunes that are there, it'd mess up the program if some were listed twice, but with an array that big, it could happen.
+// 10. Bonus challenge: Out of all the fotunes that are there, it'd mess up the program if some were listed twice, but with an array that big, it could happen.
 // Find a way to check and see whether any of the fortunes are duplicates - make a separate array of those fortunes.
 // Once you have the array of duplicated fortunes, find a way to delete those duplicates.
