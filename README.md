@@ -1,8 +1,6 @@
 # An Array of Anagrams
 
-[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/
-list-methods-mini-lab-javascript)](https://repl.it/github/upperlinecode/
-list-methods-mini-lab-javascript)
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/list-methods-mini-lab-javascript)](https://repl.it/github/upperlinecode/list-methods-mini-lab-javascript)
 
 ## TL;DR
 
