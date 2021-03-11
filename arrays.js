@@ -40,10 +40,10 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 console.log(anagrams)
 
 // LEVEL 2: At this point, the tasks will get more challenging, because you'll work with datasets too large to handle by just looking at it and reading it.
-// The arrays used in the second half of this lab will be stored in a neighboring file called "other_lists.js".
+// The arrays used in the second half of this lab will be stored in a neighboring file called "otherLists.js".
 // If you'd like to look at that file, you certainly may, but do your work here.
 // This line of code connects the data.
-const other_lists = require('./other_lists')
+const otherLists = require('./otherLists')
 
 // Pro-tip: to make this easier, comment out the line "console.log(anagrams)" above so that you aren't printing extra information.
 //
