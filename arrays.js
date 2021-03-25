@@ -62,10 +62,7 @@ const otherArrays = require('./otherArrays')
 
 
 
-// 9. Challenge: Print out a random fortune from the array.
-//
-//     You're going to need to use Math.random() and Math.floor(). See if you can figure out how they work here: https://www.w3schools.com/js/js_random.asp
-//     Then think about what range you need to choose a random number from.
+// 9. Print out a random fortune from the array.
 
 
 
