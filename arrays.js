@@ -40,15 +40,15 @@ let anagrams = ["plots", "post", "stop", "puts", "tops"]
 console.log(anagrams)
 
 // LEVEL 2: At this point, the tasks will get more challenging, because you'll work with datasets too large to handle by just looking at it and reading it.
-// The arrays used in the second half of this lab will be stored in a neighboring file called "otherLists.js".
+// The arrays used in the second half of this lab will be stored in a neighboring file called "otherArrays.js".
 // If you'd like to look at that file, you certainly may, but do your work here.
 // This line of code connects the data.
-const otherLists = require('./otherLists')
+const otherArrays = require('./otherArrays')
 
 // Pro-tip: to make this easier, comment out the line "console.log(anagrams)" above so that you aren't printing extra information.
 //
 //     The first array is called "fortunes" and contains fortune-cookie style fortunes.
-//     Remeber to access the array with "other_lists.fortunes" because is is in a different file.
+//     Remeber to access the array with "otherArrays.fortunes" because is is in a different file.
 //
 //  6. Print out the 10th fourtune from the array.
 
@@ -58,7 +58,7 @@ const otherLists = require('./otherLists')
 
 
 
-// 8. This list is huge, so it'd be helpful to know how many fortunes are listed. Find a way to print out the number of fortunes in the array.
+// 8. This array is huge, so it'd be helpful to know how many fortunes are listed. Find a way to print out the number of fortunes in the array.
 
 
 
