@@ -4,6 +4,8 @@
 
 ## TL;DR
 
+Follow the instructions in arrays.js to get experience accessing and modifying arrays.
+
 ## Contents
 
 1. [Intro](#intro)
