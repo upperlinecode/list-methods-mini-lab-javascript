@@ -1,4 +1,4 @@
-module.exports.fortunes = [
+fortunes = [
   "A beautiful, smart, and loving person will be coming into your life.",
   "A dubious friend may be an enemy in camouflage.",
   "A feather in the hand is better than a bird in the air. (2)",
@@ -348,7 +348,7 @@ module.exports.fortunes = [
 
 
 
-module.exports.coolNumbers = [
+coolNumbers = [
   99, 18, 89, 8, 48, 61, 30, 66, 14, 68, 76, 38, 37, 59, 38, 12, 87, 25, 67, 53, 17, 23, 89, 45, 43, 99, 96, 21, 35, 79, 88, 63, 91,
   15, 58, 5, 73, 58, 13, 41, 77, 84, 31, 22, 57, 24, 72, 2, 90, 77, 39, 67, 55, 0, 73, 61, 65, 70, 17, 83, 99, 79, 56, 32, 66, 12,
   9, 92, 20, 76, 52, 67, 11, 89, 53, 6, 58, 2, 10, 30, 21, 23, 62, 84, 24, 27, 48, 49, 90, 18, 76, 78, 20, 88, 80, 21, 59, 52, 83,
