@@ -1,6 +1,6 @@
 # An Array of Anagrams
 
-> NOTE: This lab is designed to work in the browser like in Glitch, and will work better there than in repl.it
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/list-methods-mini-lab-javascript)](https://repl.it/github/upperlinecode/list-methods-mini-lab-javascript)
 
 ## TL;DR
 
